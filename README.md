@@ -1,4 +1,4 @@
-# Deneme
+# Css
 
-## Alt Bilgi
+Css ödev 1
 
