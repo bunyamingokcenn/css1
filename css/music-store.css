@@ -1,0 +1,25 @@
+h1 { 
+    color: red;
+    font-size: 50px;
+}
+h2 { 
+    color: purple;
+    font-size: 40px;
+}
+h3 { 
+    color:brown;
+    font-size: 30px;
+}
+img {
+    width: 60%;
+    height: auto;
+  }
+p {
+    font-size: 18px;
+}
+li {
+    font-size: 18px;
+}
+h1, h2, h3, p, li {
+    font-family:Georgia, 'Times New Roman', Times, sans-serif;
+}
